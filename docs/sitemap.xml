@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://wfrcanalytics.github.io/TDM-INP-PopulationSim/</loc>
+         <lastmod>2026-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://wfrcanalytics.github.io/TDM-INP-PopulationSim/1_InputPreperation_GeoCrosswalk_docs/</loc>
+         <lastmod>2026-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://wfrcanalytics.github.io/TDM-INP-PopulationSim/2_InputPreperation_Seed_docs/</loc>
+         <lastmod>2026-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://wfrcanalytics.github.io/TDM-INP-PopulationSim/3_InputPreperation_CollegeStudents_Controls_docs/</loc>
+         <lastmod>2026-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://wfrcanalytics.github.io/TDM-INP-PopulationSim/4_InputPreperation_NonGQ_Controls_docs/</loc>
+         <lastmod>2026-08-31</lastmod>
+    </url>
+    <url>
+         <loc>https://wfrcanalytics.github.io/TDM-INP-PopulationSim/5_PostProcessCombine_docs/</loc>
+         <lastmod>2026-08-31</lastmod>
+    </url>
+</urlset>
